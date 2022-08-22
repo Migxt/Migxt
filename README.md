@@ -1,3 +1,5 @@
+##
+
 <div align="center">
   <img align="center" witdh="100" height="100" src="assets/stickersk.png">
 </div>
@@ -20,9 +22,13 @@
   <img align="center" alt="Migxt-PYTHON" src="https://img.shields.io/badge/PYTHON-e8a655?style=for-the-badge&logo=python&logoColor=white">
    <br>
 </div>
-  
+
+##
+
 <div align="center">
   
   ![Snake animation](https://github.com/Migxt/Migxt/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+##
