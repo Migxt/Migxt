@@ -16,3 +16,6 @@
   <img align="center" alt="Migxt-PYTHON" src="https://img.shields.io/badge/PYTHON-e8a655?style=for-the-badge&logo=python&logoColor=white">
    <br>
 </div>
+
+<img align="right" witdh="100" height="100" src="assets/stickersk.png">
+  
