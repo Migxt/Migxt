@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migxt&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<h1 align="center">📚 Estudando no momento.</h1>
+<h1 align="center">📚 Learning.</h1>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Migxt-SQL" src="https://img.shields.io/badge/MYSQL-77b1dd?style=for-the-badge&logo=mysql&logoColor=white">
