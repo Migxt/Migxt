@@ -1,4 +1,8 @@
-<h1 align="center">Olá 👾</h1>
+<div align="center">
+  <img align="center" witdh="100" height="100" src="assets/stickersk.png">
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Migxt">
@@ -16,6 +20,7 @@
   <img align="center" alt="Migxt-PYTHON" src="https://img.shields.io/badge/PYTHON-e8a655?style=for-the-badge&logo=python&logoColor=white">
    <br>
 </div>
-
-<img align="right" witdh="100" height="100" src="assets/stickersk.png">
   
+<div align="center">
+ 
+</div>
