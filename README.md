@@ -1,3 +1,5 @@
+<img src="assets/wave.png" width="140" align="left">
+<img src="assets/wave_2.png" width="140" align="right">
 <h2 align="center">📑 Learning.</h2>
   
 <div align="center">
@@ -37,7 +39,9 @@
 </div>
     
 <br>  
-  
+
+<img src="assets/wave.png" width="140" align="left">
+<img src="assets/wave_2.png" width="140" align="right">
 <div align="center">
   <h2>🐍</h2>
 </div>
@@ -46,4 +50,8 @@
   
   ![Snake animation](https://github.com/Migxt/Migxt/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+<div align="center">
+  <img src="assets/switch.png">
 </div>
