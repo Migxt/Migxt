@@ -53,5 +53,5 @@
 </div>
 
 <div align="center">
-  <img src="assets/switch.png">
+  <img src="assets/switch.png" width="180">
 </div>
