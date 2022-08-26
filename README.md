@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <h2>📦 Repos.</h2>
+  <h2>📌 Pin Repos.</h2>
 </div>
   
 <div align="center">
