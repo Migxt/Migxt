@@ -54,9 +54,3 @@
   ![Snake animation](https://github.com/Migxt/Migxt/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<div align="center">
-  <img src="assets/wave.png" width="140">
-  <img src="assets/switch.png" width="180">
-  <img src="assets/wave_2.png" width="140">
-</div>
