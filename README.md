@@ -27,13 +27,13 @@
   
 <div align="center">
   <a href="https://github.com/Migxt/exercicios_py" target="blank">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=exercicios_py&hide_border=true&border_radius=20&text_color=A5A5A5"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=exercicios_py&hide_border=true&border_radius=20&text_color=A5A5A5"/>
   
   <a href="https://github.com/Migxt/.dotfiles" target="blank">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=.dotfiles&hide_border=true&border_radius=20&text_color=A5A5A5"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=.dotfiles&hide_border=true&border_radius=20&text_color=A5A5A5"/>
   
   <a href="https://github.com/Migxt/php_login" target="blank">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=php_login&hide_border=true&border_radius=20&text_color=A5A5A5"/>    
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/pin?username=Migxt&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=php_login&hide_border=true&border_radius=20&text_color=A5A5A5"/>    
 </div>
     
 <br>  
