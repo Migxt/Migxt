@@ -3,7 +3,7 @@
 <img src="assets/wave_2.png" width="140" align="right">
 </div>
 
-<h2 align="center">📑 Learning.</h2>
+<h2 align="center">📑 Aprendendo.</h2>
   
 <div align="center">
   <img align="center" alt="valb-mig-PHP" src="https://img.shields.io/badge/PHP-9578e9?style=for-the-badge&logo=php&logoColor=white&color=594BA0">
@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <h2>📌 Pin Repos.</h2>
+  <h2>📌 Projetos.</h2>
 </div>
   
 <div align="center">
