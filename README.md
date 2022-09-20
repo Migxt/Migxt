@@ -10,7 +10,7 @@
   <img align="center" alt="valb-mig-JAVA" src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=java&logoColor=white&color=CF9D71">
   <img align="center" alt="valb-mig-HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=CB636A">
   <img align="center" alt="valb-mig-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=58CC7A">
-  <img align="center" alt="valb-mig-PYTHON" src="https://img.shields.io/badge/PYTHON-e8a655?style=for-the-badge&logo=python&logoColor=white&color=CF9D71">
+  <img align="center" alt="valb-mig-PYTHON" src="https://img.shields.io/badge/PYTHON-e8a655?style=for-the-badge&logo=python&logoColor=white&color=71D5C3">
 </div>
 
 <br>
