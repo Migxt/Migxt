@@ -54,7 +54,7 @@
 <div align="center">
   <img align="center" alt="valb-mig-JAVA" src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=java&logoColor=white&color=CF9D71">
   <img align="center" alt="valb-mig-SQL"  src="https://img.shields.io/badge/SQL-71D5C3?style=for-the-badge&logo=java&logoColor=white&color=B36797">
-  <img align="center" alt="valb-mig-JS" src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&color=CF9D71">
+  <img align="center" alt="valb-mig-JS" src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&color=B36797">
 </div>
     
 <br>  
