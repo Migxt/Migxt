@@ -11,6 +11,8 @@
   <img align="center" alt="valb-mig-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=58CC7A">
   <img align="center" alt="valb-mig-REACTJS" src="https://img.shields.io/badge/REACTJS-e8a655?style=for-the-badge&logo=react&logoColor=white&color=67C1B0">
   <img align="center" alt="valb-mig-SQL"  src="https://img.shields.io/badge/SQL-71D5C3?style=for-the-badge&logo=mysql&logoColor=white&color=CF9D71">
+  <img align="center" alt="valb-mig-JS"   src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&color=CF9D71">
+  <img align="center" alt="valb-mig-SCSS"  src="https://img.shields.io/badge/SASS-71D5C3?style=for-the-badge&logo=sass&logoColor=white&color=B36797">
 </div>
 
 <br>
@@ -57,9 +59,10 @@
 <h2 align="center">📑 Aprendendo.</h2>
   
 <div align="center">
-  <img align="center" alt="valb-mig-LUA" src="https://img.shields.io/badge/LUA-1572B6?style=for-the-badge&logo=lua&logoColor=white&color=5877CC">
-  <img align="center" alt="valb-mig-JS"   src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&color=CF9D71">
-  <img align="center" alt="valb-mig-SCSS"  src="https://img.shields.io/badge/SASS-71D5C3?style=for-the-badge&logo=sass&logoColor=white&color=B36797">
+  <img align="center" alt="valb-mig-LUA"          src="https://img.shields.io/badge/LUA-1572B6?style=for-the-badge&logo=lua&logoColor=white&color=5877CC">
+  <img align="center" alt="valb-mig-PYTHON"       src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white&color=5877CC">
+  <img align="center" alt="valb-mig-DOCKER"       src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=docker&logoColor=white&color=5877CC">
+  <img align="center" alt="valb-mig-NODE"         src="https://img.shields.io/badge/NODE-1572B6?style=for-the-badge&logo=node&logoColor=white&color=5877CC">
 </div>
     
 <br>  
