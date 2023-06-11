@@ -34,9 +34,7 @@
 </div>
   
 <div align="center">
-  <a href="https://github.com/valb-mig/ListaDeCadastro" target="blank">
-  <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=ListaDeCadastro&hide_border=true&border_radius=20&text_color=A5A5A5"/>
-  
+
   <a href="https://github.com/valb-mig/.dotfiles" target="blank">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=.dotfiles&hide_border=true&border_radius=20&text_color=A5A5A5"/>
   
