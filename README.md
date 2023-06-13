@@ -44,9 +44,6 @@
   <a href="https://github.com/valb-mig/code_theme_gtk" target="blank">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=code_theme_gtk&hide_border=true&border_radius=20&text_color=A5A5A5"/>
   
-  <a href="https://github.com/valb-mig/react-admin-menu" target="blank">
-  <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=react-admin-menu&hide_border=true&border_radius=20&text_color=A5A5A5"/>    
-
   <a href="https://github.com/valb-mig/todo-web-app" target="blank">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=todo-web-app&hide_border=true&border_radius=20&text_color=A5A5A5"/> 
     
