@@ -66,13 +66,3 @@
   <img src="assets/wave.png" width="140" align="left">
   <img src="assets/wave_2.png" width="140" align="right">
 </div>
-    
-<div align="center">
-  <h2>🐍</h2>
-</div>
-    
-<div align="center">
-  
-  ![Snake animation](https://github.com/valb-mig/valb-mig/blob/output/github-contribution-grid-snake.svg)
-
-</div>
