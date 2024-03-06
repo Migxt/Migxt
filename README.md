@@ -7,6 +7,7 @@
   
 <div align="center">
   <img align="center" alt="valb-mig-PHP"     src="https://img.shields.io/badge/PHP-9578e9?style=for-the-badge&logo=php&logoColor=white&color=594BA0">
+  <img align="center" alt="valb-mig-DOCKER"  src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=docker&logoColor=white&color=5877CC">
   <img align="center" alt="valb-mig-LARAVEL" src="https://img.shields.io/badge/LARAVEL-d67272?style=for-the-badge&logo=laravel&logoColor=white&color=d67272">
   <img align="center" alt="valb-mig-NEXTJS"  src="https://img.shields.io/badge/NEXTJS-e8a655?style=for-the-badge&logo=reactjs&logoColor=white&color=67C1B0">
   <img align="center" alt="valb-mig-SQL"     src="https://img.shields.io/badge/SQL-475CCF?style=for-the-badge&logo=mysql&logoColor=white&color=475CCF">
@@ -61,7 +62,6 @@
 <div align="center">
   <img align="center" alt="valb-mig-LUA"          src="https://img.shields.io/badge/LUA-1572B6?style=for-the-badge&logo=lua&logoColor=white&color=8271CF">
   <img align="center" alt="valb-mig-PYTHON"       src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white&color=CCAA52">
-  <img align="center" alt="valb-mig-DOCKER"       src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=docker&logoColor=white&color=5877CC">
   <img align="center" alt="valb-mig-NODE"         src="https://img.shields.io/badge/NODE-1572B6?style=for-the-badge&logo=node&logoColor=white&color=4D9953">
 </div>
     
