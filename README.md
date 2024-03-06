@@ -67,6 +67,14 @@
     
 <br>  
 
+<div align="center">
+  <h2>📊 Dashboard</h2>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=valb_mig&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=20&text_color=A5A5A5"/>
+</div>
+
 <div>
   <img src="assets/wave.png" width="140" align="left">
   <img src="assets/wave_2.png" width="140" align="right">
