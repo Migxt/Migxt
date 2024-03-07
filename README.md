@@ -72,7 +72,7 @@
 </div>
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=valb_mig&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=10&text_color=A5A5A5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=valb_mig&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=10&text_color=A5A5A5"/>
 </div>
 
 <div>
