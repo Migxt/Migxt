@@ -35,6 +35,7 @@
 
 <div align="center">
   
+  <a href="https://gist.github.com/valb-mig/8da59466a4923959927ae036e21b3e5f" target="blank">
   <img height="109em" src="https://github-readme-stats.vercel.app/api/gist/?id=8da59466a4923959927ae036e21b3e5f&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=20&text_color=A5A5A5"/>
 
   <a href="https://github.com/valb-mig/.dotfiles" target="blank">
