@@ -30,16 +30,15 @@
 <br>
 
 <div align="center">
-  <h2>📌 Projetos</h2>
+  <h2>📌 Pins</h2>
 </div>
 
 <div align="center">
+  
+  <img height="109em" src="https://github-readme-stats.vercel.app/api/gist/?id=8da59466a4923959927ae036e21b3e5f&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=20&text_color=A5A5A5"/>
 
   <a href="https://github.com/valb-mig/.dotfiles" target="blank">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=.dotfiles&hide_border=true&border_radius=20&text_color=A5A5A5"/>  
-    
-  <a href="https://github.com/valb-mig/api-todo-web-app" target="blank">
-  <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=api-todo-web-app&hide_border=true&border_radius=20&text_color=A5A5A5"/>
   
   <a href="https://github.com/valb-mig/todo-web-app" target="blank">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=valb-mig&show_icons=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&repo=todo-web-app&hide_border=true&border_radius=20&text_color=A5A5A5"/> 
@@ -57,7 +56,7 @@
 
 <br>
    
-<h2 align="center">📑 Aprendendo</h2>
+<h2 align="center">📑 Learning</h2>
   
 <div align="center">
   <img align="center" alt="valb-mig-LUA"          src="https://img.shields.io/badge/LUA-1572B6?style=for-the-badge&logo=lua&logoColor=white&color=8271CF">
@@ -72,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=valb_mig&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=20&text_color=A5A5A5"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=valb_mig&layout=compact&langs_count=7&hide_border=true&bg_color=070707&title_color=CF9D71&icon_color=594BA0&border_radius=10&text_color=A5A5A5"/>
 </div>
 
 <div>
