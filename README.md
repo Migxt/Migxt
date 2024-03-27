@@ -14,6 +14,8 @@
   <img align="center" alt="valb-mig-SQL"        src="https://img.shields.io/badge/SQL-475CCF?style=for-the-badge&logo=mysql&logoColor=white&color=475CCF">
   <img align="center" alt="valb-mig-JS"         src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&color=CF9D71">
   <img align="center" alt="valb-mig-SCSS"       src="https://img.shields.io/badge/SASS-71D5C3?style=for-the-badge&logo=sass&logoColor=white&color=B36797">
+  <img align="center" alt="valb-mig-TAILWIND"   src="https://img.shields.io/badge/TAILWIND-71D5C3?style=for-the-badge&logo=tailwind-css&logoColor=white&color=67C1B0">
+
 </div>
 
 <br>
