@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <h2>➕ Status</h2>
+  <h2>🔔 Status</h2>
 </div>
 
 <div align="center">
