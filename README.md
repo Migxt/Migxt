@@ -67,7 +67,6 @@
   <img align="center" alt="valb-mig-PYTHON" src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white&color=CCAA52">
   <img align="center" alt="valb-mig-NODE"   src="https://img.shields.io/badge/NODE-1572B6?style=for-the-badge&logo=node.js&logoColor=white&color=4D9953">
   <img align="center" alt="valb-mig-RUST"   src="https://img.shields.io/badge/RUST-1572B6?style=for-the-badge&logo=rust&logoColor=white&color=d67272">
-  <img align="center" alt="valb-mig-JAVA"   src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=java&logoColor=white&color=CCAA52">
 </div>
     
 <br>  
