@@ -1,6 +1,6 @@
 <div>
-<img src="assets/wave.png" width="140" align="left">
-<img src="assets/wave_2.png" width="140" align="right">
+  <img src="assets/wave.png" width="140" align="left">
+  <img src="assets/wave_2.png" width="140" align="right">
 </div>
 
 <h2 align="center">📑 Skills</h2>
