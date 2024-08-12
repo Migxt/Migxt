@@ -1,4 +1,4 @@
-<div>
+<div> 
   <img src="assets/wave.png" width="140" align="left">
   <img src="assets/wave_2.png" width="140" align="right">
 </div>
